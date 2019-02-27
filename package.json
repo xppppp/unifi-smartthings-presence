@@ -1,0 +1,16 @@
+{
+  "name": "unifi-smartthings-presence",
+  "version": "0.1.0",
+  "description": "A webhook presence detector using a UniFi controller to detect Wi-Fi devices.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "unifi-events": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P Park",
+  "license": "MIT"
+}
